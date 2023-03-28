@@ -1,1 +1,1 @@
-# my_bot_BTS
+# my_bot_BTC
